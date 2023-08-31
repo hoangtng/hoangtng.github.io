@@ -7,5 +7,7 @@ date: 2023-08-30
 published: true
 labels:
   - Engineering
+  - Learning
+  - Javascript
 ---
 
