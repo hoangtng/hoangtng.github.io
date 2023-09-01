@@ -18,12 +18,12 @@
     { "name": "Backend Engineering" },
     { "name": "Product Management" },
     { "name": "Machine Learning" },
-    { "name": "Data Science" }
+    { "name": "Hiking" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python"]
     },
     {
       "name": "Toolsets/OS",
