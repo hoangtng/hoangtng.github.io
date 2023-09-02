@@ -11,7 +11,10 @@ labels:
   - Javascript
 ---
 <p><img height="80%" width="80%" 
-     class="text-center p-4" 
+     style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;" 
      src="https://img.youtube.com/vi/7hVnqBIxdQ0/hqdefault.jpg"></p>
 
 <h3>function introduction(student, programmingLanguage) {</h3>
