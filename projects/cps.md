@@ -7,6 +7,7 @@ date: 2021
 published: true
 labels:
   - Java
+  - OOPs
 summary: "A Java Project in ICS 211. Implement OOPs concept in java"
 ---
 
