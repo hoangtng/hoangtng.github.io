@@ -2,13 +2,15 @@
 layout: project
 type: project
 image: img/cotton/cotton-square.png
-title: "Cotton"
-date: 2014
+title: "Rock Paper scissors"
+date: 2021
 published: true
 labels:
-  - Lisp
-  - GitHub
-summary: "A text adventure game that I developed for ICS 313."
+  - Java
+  - Java Swing
+  - Player vs Computer
+  - Game
+summary: "A GUI game of Rock Paper Scissors play with the computer. Using Java AWT and Java Swing libraries for the graphical user interface develope in Java"
 ---
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
