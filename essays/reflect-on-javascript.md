@@ -10,10 +10,9 @@ labels:
   - Learning
   - Javascript
 ---
-<img width="500px" 
+<p><img width="500px" 
      class="text-center p-4" 
-     src="https://img.youtube.com/vi/7hVnqBIxdQ0/hqdefault.jpg">
-
+     src="https://img.youtube.com/vi/7hVnqBIxdQ0/hqdefault.jpg"></p>
 
 <h3>function introduction(student, programmingLanguage) {</h3>
 <p style="display: inline-block;
