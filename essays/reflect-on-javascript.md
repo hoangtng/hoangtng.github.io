@@ -10,7 +10,7 @@ labels:
   - Learning
   - Javascript
 ---
-<p><img height="80%" width="80%" 
+<p><img height="50%" 
      style="display: block;
   margin-left: auto;
   margin-right: auto;
