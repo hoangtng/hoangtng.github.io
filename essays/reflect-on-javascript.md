@@ -10,7 +10,10 @@ labels:
   - Learning
   - Javascript
 ---
-<h2>Journey to JavaScript</h2>
+<img width="200px" 
+     class="rounded float-start pe-4" 
+     src “https://img.youtube.com/vi/7hVnqBIxdQ0/hqdefault.jpg" >
+
 
 <h3>function introduction(student, programmingLanguage) {</h3>
 <p style="display: inline-block;
