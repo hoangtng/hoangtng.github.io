@@ -14,7 +14,7 @@ labels:
      style="display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%" 
+  width: 70%" 
      src="https://img.youtube.com/vi/7hVnqBIxdQ0/hqdefault.jpg"></p>
 
 <h3>function introduction(student, programmingLanguage) {</h3>
