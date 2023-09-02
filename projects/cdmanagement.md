@@ -12,7 +12,7 @@ labels:
 summary: "A project manage list of CD. Implement Binary Search Tree"
 ---
 
-<img class="img-fluid" style="display: block;   margin-left: auto;   margin-right: auto; width: 30%" src="../img/cds2.png">
+<img class="img-fluid" style="display: block;   margin-left: auto;   margin-right: auto; width: 20%" src="../img/cds2.png">
 
 <p>This is one of my projects in class ICS 211. This project involves storing albums and includes information such as the album name, artist, price, and number in stock. Through this project, I gained experience in understanding how Object-Oriented Programming (OOP) works in Java. Additionally, it incorporates a binary search tree node data structure to store CDs within albums. I have also implemented exceptions to ensure that the program continues to function correctly in the presence of logic problems.</p>
 <img class="img-fluid" style="display: block;   margin-left: auto;   margin-right: auto" src="../img/bst.png">
