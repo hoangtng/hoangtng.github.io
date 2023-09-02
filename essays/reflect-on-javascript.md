@@ -10,7 +10,7 @@ labels:
   - Learning
   - Javascript
 ---
-<p><img width="500px" 
+<p><img height="100%" width="100%" 
      class="text-center p-4" 
      src="https://img.youtube.com/vi/7hVnqBIxdQ0/hqdefault.jpg"></p>
 
@@ -26,7 +26,8 @@ labels:
 <p style="display: inline-block;
     margin-left: 40px;">Then, JavaScript is an object-oriented language that is prototype-based, that does not use classes to define objects. Instead, it uses prototypes, which are existing objects. In addition, JavaScript has the concept of “JavaScript treat function as a first-class”, this means that functions can be assigned to any other variable, passed as an argument, or returned by another function. </p>
 ```
-function sayHello() {
+<p style="display: inline-block;
+    margin-left: 40px;">function sayHello() {
   return "Hello, ";
 }
 function greeting(helloMessage, name) {
@@ -34,7 +35,7 @@ function greeting(helloMessage, name) {
 }
 // Pass 'sayHello' as an argument to 'greeting' function
 greeting(sayHello, "JavaScript!");
-// Hello, JavaScript!
+// Hello, JavaScript!</p>
 ```
 <p style="display: inline-block;
     margin-left: 40px;">One of the most interesting things about JavaScript that I experienced while learning is how JavaScript handles concurrency issues. To deal with concurrency issues, JavaScript also has the concept of asynchronous programming with “Promise”, which allows the code to run in the background without blocking the execution of other code. For example, we can execute parallel queries to the database or run API calls in the background while the main thread (website) continues to function normally. Even if a database query fails, the main thread will remain uninterrupted. I believe these differences contribute to bringing more convenience, creativity, and productivity to JavaScript developers.”; </p>
