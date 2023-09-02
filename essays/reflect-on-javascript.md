@@ -20,6 +20,17 @@ labels:
 <p>return “Compared to other programming languages, although JavaScript has many similarities with other programming languages, but also there are also many notable differences. First, variable declaration in JavaScript is much more convenient than in Java. While Java variables must be declared using specific data types before they can be used, JavaScript is more flexible. Simply using 'let,' 'var,' or 'const' is sufficient, without having to consider which data type is suitable for declaration. </p>
 
 <p>Then, JavaScript is an object-oriented language that is prototype-based, that does not use classes to define objects. Instead, it uses prototypes, which are existing objects. In addition, JavaScript has the concept of “JavaScript treat function as a first-class”, this means that functions can be assigned to any other variable, passed as an argument, or returned by another function. </p>
+```
+function sayHello() {
+  return "Hello, ";
+}
+function greeting(helloMessage, name) {
+  console.log(helloMessage() + name);
+}
+// Pass 'sayHello' as an argument to 'greeting' function
+greeting(sayHello, "JavaScript!");
+// Hello, JavaScript!
+```
 <p>One of the most interesting things about JavaScript that I experienced while learning is how JavaScript handles concurrency issues. To deal with concurrency issues, JavaScript also has the concept of asynchronous programming with “Promise”, which allows the code to run in the background without blocking the execution of other code. For example, we can execute parallel queries to the database or run API calls in the background while the main thread (website) continues to function normally. Even if a database query fails, the main thread will remain uninterrupted. I believe these differences contribute to bringing more convenience, creativity, and productivity to JavaScript developers.”; </p>
 <h3>}</h3>
 
