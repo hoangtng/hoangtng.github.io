@@ -10,7 +10,7 @@ labels:
   - Learning
   - Javascript
 ---
-<p><img height="100%" width="100%" 
+<p><img height="80%" width="80%" 
      class="text-center p-4" 
      src="https://img.youtube.com/vi/7hVnqBIxdQ0/hqdefault.jpg"></p>
 
