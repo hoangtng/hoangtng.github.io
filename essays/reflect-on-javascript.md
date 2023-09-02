@@ -15,7 +15,7 @@ labels:
   margin-left: auto;
   margin-right: auto;
   width: 70%" 
-     src="https://img.youtube.com/vi/7hVnqBIxdQ0/hqdefault.jpg"></p>
+     src="https://www.workato.com/product-hub/wp-content/uploads/2020/12/workato-blog-JavaScript-20201208-bl-01.jpg"></p>
 
 <h3>function introduction(student, programmingLanguage) {</h3>
 <p style="display: inline-block;
