@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/laptop.png
+image: img/laptop.jpg
 title: "Computer Store Management"
 date: 2021
 published: true
@@ -11,7 +11,7 @@ labels:
 summary: "A Java Project in ICS 211. Implement OOPs concept in java"
 ---
 
-<img class="img-fluid" style="display: block;   margin-left: auto;   margin-right: auto" src="../img/cps.png">
+<img class="img-fluid" style="display: block;   margin-left: auto;   margin-right: auto" src="../img/cps.jpg">
 
 <p>Computer Store Management is one of the Java projects in my ICS 211 course. This project helped me learn about the object-oriented programming features of Java. Additionally, I utilized exceptions to prevent the project from crashing when encountering logic errors.</p>
 
