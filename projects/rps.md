@@ -20,4 +20,4 @@ After the player chooses one of the three options, the system will randomly choo
 <p>After the player exits the game, the system will store the scores in the "scores.txt" file before shutting down the application completely. The user can review the game scores in the same folder as the project launch file.</p>
 <img class="img-fluid" style="display: block;
   margin-left: auto;
-  margin-right: auto; src="../img/rps2.jpg">
+  margin-right: auto" src="../img/rps2.jpg">
