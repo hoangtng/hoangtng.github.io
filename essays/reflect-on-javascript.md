@@ -12,7 +12,7 @@ labels:
 ---
 <img width="200px" 
      class="rounded float-start pe-4" 
-     src “https://img.youtube.com/vi/7hVnqBIxdQ0/hqdefault.jpg" >
+     src="https://img.youtube.com/vi/7hVnqBIxdQ0/hqdefault.jpg" >
 
 
 <h3>function introduction(student, programmingLanguage) {</h3>
