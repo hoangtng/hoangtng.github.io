@@ -23,7 +23,7 @@ When I clicked open this post, I saw a more detailed question as shown below:
      style="display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 40%" 
+  width: 60%" 
      src="../img/dump.png">
 
 We can see that the wording of the question is also unclear. He wanted to ask about the function implode(). According to Eric Steven Raymond, before we ask the question, let's try searching through the search engines. Searching for the function implode() on Google brings up a lot of results with available examples that are very intuitive. I think the problem will be solved much faster this way.
@@ -38,8 +38,8 @@ Finally, we can see responses like 'Is there a reason you tagged this with [pyth
      style="display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 40%" 
-     src="../img/dump.png">
+  width: 60%" 
+     src="../img/smart.png">
      
 Now let's take a look at a smart question. Let's start with the title: as we can see, it's much clearer than the one above. We can tell that the user is having problems with async/await and array.map. This will help us find the right people to address the problem more quickly.
 
