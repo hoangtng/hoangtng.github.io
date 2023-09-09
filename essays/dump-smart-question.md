@@ -19,7 +19,7 @@ As a software engineer, we always have issues with programming and finding solut
 To make it easier to understand, I will give an example that I found on Stack Overflow. A post was asked by user Ogoere Biwei with the title "Please, someone should help me on this issue." Right from the title, we can see the ambiguity in stating the problem. According to Eric Steven Raymond, providing subject headers in the form of "object - deviation" helps us organize our thinking about the problem in more detail. From a reader's point of view, I have no idea what problem Ogoere is in need of help with.
 
 When I clicked open this post, I saw a more detailed question as shown below:
-<img height="50%" 
+<img height="40%" 
      style="display: block;
   margin-left: auto;
   margin-right: auto;
@@ -34,7 +34,7 @@ Finally, we can see responses like 'Is there a reason you tagged this with [pyth
 
 <h3>Try Smarter</h3>
 
-<img height="50%" 
+<img height="40%" 
      style="display: block;
   margin-left: auto;
   margin-right: auto;
