@@ -23,7 +23,7 @@ When I clicked open this post, I saw a more detailed question as shown below:
      style="display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 60%" 
+  width: 50%" 
      src="../img/dump.png">
 
 We can see that the wording of the question is also unclear. He wanted to ask about the function implode(). According to Eric Steven Raymond, before we ask the question, let's try searching through the search engines. Searching for the function implode() on Google brings up a lot of results with available examples that are very intuitive. I think the problem will be solved much faster this way.
@@ -38,7 +38,7 @@ Finally, we can see responses like 'Is there a reason you tagged this with [pyth
      style="display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 60%" 
+  width: 50%" 
      src="../img/smart.png">
      
 Now let's take a look at a smart question. Let's start with the title: as we can see, it's much clearer than the one above. We can tell that the user is having problems with async/await and array.map. This will help us find the right people to address the problem more quickly.
@@ -46,3 +46,7 @@ Now let's take a look at a smart question. Let's start with the title: as we can
 Next, as we can clearly see in the image above, the author of the post provides an example of their code along with the error they encountered. This gives everyone enough information to work with and helps others with the same problem find the answer more easily.
 
 Finally, the author clearly states their need for help making async/await work with array.map. Providing a clear output like this will help subject matter experts give a better answer more quickly. It's worth noting that this question received 515 upvotes, which means that many other people have benefited from it.
+
+<h3>Improving</h3>
+
+Based on the above two examples, we have clearly visualized the importance of asking questions in a technical manner that can help us save time and increase productivity. There may be instances where we fail to ask good questions, but that is normal and should be accepted. In fact, it is healthy and appropriate. We can refer to Eric Steven Raymond's tips to learn how to ask smarter questions.
