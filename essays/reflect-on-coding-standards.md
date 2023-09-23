@@ -10,3 +10,5 @@ labels:
   - Learning
   - Coding Standards
 ---
+
+As a software engineer, we always have issues with programming and finding solutions to resolve problems. Every project, big or small, has its own set of difficulties and requires a separate solution.
