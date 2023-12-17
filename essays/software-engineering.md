@@ -18,7 +18,8 @@ labels:
   margin-right: auto;
   width: 50%" 
      src="../img/software-developer.jpg">
-Reflect on Software Engineering
+     
+<h2>Reflect on Software Engineering</h2>
 
 <h2>Configuration Management</h2>
 
