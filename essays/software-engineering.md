@@ -20,7 +20,7 @@ labels:
      src="../img/software-developer.jpg">
 Reflect on Software Engineering
 
-Configuration Management
+**Configuration Management
 
 Configuration management plays a pivotal role in ensuring the stability and scalability of software systems. In this class, we have explored various aspects of configuration management, including version control systems, such as Git, which enable us to track changes, collaborate effectively, and maintain a coherent codebase. Furthermore, we have learned about practices like continuous integration and automated testing, which enhance the reliability and maintainability of our software. Configuration management enables us to manage complexity, track progress, and ensure a seamless development process.
 
