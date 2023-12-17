@@ -22,7 +22,7 @@ A link to the website: <a href="https://alohaeats.online">Aloha Eats</a>
 <h2>My Contributions</h2>
 <ul>
   <li>Designed the mockup pages for our website.</li>
-  <li>Created profile page, menu mangage page</li>
+  <li>Created and shaped up profile page, menu mangage page</li>
   <li>Enhances the UX/UI for both users and vendors</li>
   <li>Designed the notification system for user to subscribe their favorite food</li>
   <li>Designed and restructure database schema for users and vendors.</li>
