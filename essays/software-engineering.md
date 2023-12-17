@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Exploring Fundamental Software Engineering Concepts"
+title: "Reflections on the Journey of Software Engineering Education"
 # All dates must be YYYY-MM-DD format!
 date: 2023-12-12
 published: true
@@ -20,6 +20,11 @@ labels:
      src="../img/software-developer.jpg">
      
 <h2>Reflect on Software Engineering</h2>
+
+In the course of my journey through ICS 314, I have acquired valuable knowledge and practices that have significantly improved my web development abilities. These newfound skills extend beyond technical prowess and encompass the essential soft skills necessary for thriving in team-based settings and professional work environments within the computer science field.
+
+One of the most significant lessons I learned from this course is the immense value of collaborative group work towards a shared goal or project. This skill holds great importance, as it allows for a deeper understanding of fundamental software principles through peer collaboration and the practical application of knowledge (also known as learning by doing!). Exploring software engineering conventions for the first time proved to be a challenging yet indispensable learning curve, fostering the development of foundational technical competencies.
+
 
 <h2>Configuration Management</h2>
 
