@@ -1,0 +1,66 @@
+{
+  "basics": {
+    "name": "Hoang Nguyen",
+    "label": "Student",
+    "picture": "https://github.com/hoangtng.png",
+    "email": "thanghn@hawaii.edu",
+    "phone": "",
+    "website": "https://hoangtng.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "location": { "address": "", "postalCode": "96818", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "hoangtng", "url": "http://github.com/hoangtng" },
+      { "network": "linkedin", "username": "thanghn", "url": "http://linkedin.com/in/thanghn" }
+    ]
+  },
+  "interests": [
+    { "name": "Software Engineering" },
+    { "name": "Backend Engineering" },
+    { "name": "Product Management" },
+    { "name": "Data Science" },
+    { "name": "Hiking" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python"]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2025)",
+      "studyType": "B.S.",
+      "startDate": "2023",
+      "endDate": "Present",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Leeward Community College",
+      "area": "Computer Science",
+      "studyType": "A.S.",
+      "startDate": "",
+      "endDate": "2023",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    
+  ],
+  "volunteer": [
+    
+  ],
+  "awards": [
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="Journey to JavaScript | Hoang Nguyen | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/hoangtng.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Hoang Nguyen | Professional Portfolio">
+    <meta property="og:url" content="https://hoangtng.github.io/essays/reflect-on-javascript.html">
+    <meta property="og:title" content="Journey to JavaScript | Hoang Nguyen | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/hoangtng.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/lime.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>Journey to JavaScript | Hoang Nguyen | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Hoang Nguyen</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">Journey to JavaScript</h1>
+  <span class="date">30 Aug 2023</span>
+  <hr>
+  <p><img height="50%" style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%" src="https://www.workato.com/product-hub/wp-content/uploads/2020/12/workato-blog-JavaScript-20201208-bl-01.jpg" /></p>
+
+<h3>function introduction(student, programmingLanguage) {</h3>
+<p style="display: inline-block;
+    margin-left: 40px;">return “I came on a journey to JavaScript because I needed it for projects in my ICS 314 (Software Engineering I) class. Prior to joining the ICS 314 class, I had learned some programming languages such as C++, Java, and Python. Learning these languages in previous classes was initially challenging, but then it provided me with a solid foundation. Consequently, when I transitioned to learning JavaScript, I found it relatively easier and quickly adapted to it. This was because the syntax and structure of JavaScript are similar to Java programming, but somewhat simpler, syntax is more concise, and execution is also faster.”;</p>
+<h3>}</h3>
+
+<h3>function compare(javascript, others) {</h3>
+<p style="display: inline-block;
+    margin-left: 40px;">return “Compared to other programming languages, although JavaScript has many similarities with other programming languages, but also there are also many notable differences. First, variable declaration in JavaScript is much more convenient than in Java. While Java variables must be declared using specific data types before they can be used, JavaScript is more flexible. Simply using 'let,' 'var,' or 'const' is sufficient, without having to consider which data type is suitable for declaration. </p>
+
+<p style="display: inline-block;
+    margin-left: 40px;">Then, JavaScript is an object-oriented language that is prototype-based, that does not use classes to define objects. Instead, it uses prototypes, which are existing objects. In addition, JavaScript has the concept of “JavaScript treat function as a first-class”, this means that functions can be assigned to any other variable, passed as an argument, or returned by another function. </p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>function sayHello() {
+  return "Hello, ";
+}
+function greeting(helloMessage, name) {
+  console.log(helloMessage() + name);
+}
+// Pass 'sayHello' as an argument to 'greeting' function
+greeting(sayHello, "JavaScript!");
+// Hello, JavaScript!
+</code></pre></div></div>
+<p style="display: inline-block;
+    margin-left: 40px;">One of the most interesting things about JavaScript that I experienced while learning is how JavaScript handles concurrency issues. To deal with concurrency issues, JavaScript also has the concept of asynchronous programming with “Promise”, which allows the code to run in the background without blocking the execution of other code. For example, we can execute parallel queries to the database or run API calls in the background while the main thread (website) continues to function normally. Even if a database query fails, the main thread will remain uninterrupted. I believe these differences contribute to bringing more convenience, creativity, and productivity to JavaScript developers.”; </p>
+<h3>}</h3>
+
+<h3>function athletic_software_engineering() {</h3>
+<p style="display: inline-block;
+    margin-left: 40px;">return “I find that WODs (Workout of the Day) are highly effective for me. Although WODs are a bit of a pressure because it requires us to quickly find solutions within a limited time, but I believe that when we are forced to do something, we discover ways to overcome it. This has motivated me to spend time persistently learning programming and solving problems almost every day of the week to be able to pass the tests. I believe that after this semester, I will improve my programming skills and critical thinking skills so that I can confidently apply for an internship or have a solid foundation for future subjects.” </p>
+<h3>}</h3>
+
+<h3>introduction(“Hoang Nguyen”,”JavaScript”);</h3>
+<h3>compare (”JavaScript”, ”Java”);</h3>
+<h3>athletic_software_engineering();</h3>
+
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>
