@@ -17,6 +17,12 @@ labels:
   width: 50%" 
      src="../img/index-design-patterns-3x.png">
 Imagine a grand symphony hall, where talented musicians play their instruments in perfect harmony. Just as music arrangements bring together these individuals to create an exceptional concert, design patterns fulfill a similar role in the programming world. They ensure smooth collaboration, neatness, and avoid clutter caused by multiple versions. One such pattern, the Singleton, facilitates resource management and global accessibility by creating a single instance of a class and providing a centralized access point.
+<img height="40%" 
+     style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%" 
+     src="../img/design-patterns.jpg">
 
 When exploring Structural Patterns like Adapter and Bridge, the programming journey becomes even more captivating. The Adapter pattern assumes the role of a master sculptor, harmonizing disparate interfaces. Just as a sculptor seamlessly combines different materials to create a cohesive composition, the Adapter pattern enables incompatible classes to collaborate seamlessly. It acts as a bridge, adapting the interface of one class to match the expectations of another, promoting code reusability and enabling the integration of otherwise incompatible components or systems.
 
