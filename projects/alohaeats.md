@@ -22,22 +22,37 @@ A link to the website: <a href="https://alohaeats.online">Aloha Eats</a>
 <h2>My Contributions</h2>
 <ul>
   <li>Designed the mockup pages for our website.</li>
-  <li>Created and shaped up profile page, menu mangage page</li>
-  <li>Enhances the UX/UI for both users and vendors</li>
-  <li>Designed the notification system for user to subscribe their favorite food</li>
+  <li>Created and shaped up profile page, menu mangage page.</li>
+  <li>Enhances the UX/UI for both users and vendors pages.</li>
+  <li>Designed the notification system for user to subscribe their favorite food.</li>
   <li>Designed and restructure database schema for users and vendors.</li>
-  <li>Automation add data for new users</li>
-  <li>Deploy and manage website on Digital Ocean</li>
+  <li>Automation add data for new users.</li>
+  <li>Deploy and manage website on Digital Ocean.</li>
 </ul>
 <h2>What I Learned</h2>
-
+<ul>
+  <li>Understand the application of React in develop dynamic user interfaces. Dive into the world of reusable components, understanding how to build and manage them effectively. Harness the power of state and props to create interactive interfaces that respond in real-time to user actions and interactions.</li>
+  <li>Learn how to utilize Bootstrap's prebuilt grid system and components to style web pages and enhance our UX/UI,while also creating responsive designs using this powerful framework.</li>
+  <li>Embark on a journey to learn the process of building applications collaboratively with a team, while also delving into the realm of configuration management using GitHub.</li>
+  <li>Gain proficiency in Issue Driven Project Management, enabling effective tracking and management of tasks throughout the development lifecycle.</li>
+  <li>Learn how to design a basic database model and understand how to store, retrieve, and manipulate data in a database using MongoDB.</li>
+  <li>Learn how to use React to create dynamic user interfaces by building reusable components and then learning how to manage state and props.</li>
+  <li>Learn how to use TestCafe to implement automatic testing procedures for web pages.</li>
+</ul>
 <h2>Glimpse of Website</h2>
+<h4>Landing Page</h4>
 <img src="/img/landingpage.png">
+<h4>Profile Page</h4>
 <img src="/img/profile.png">
+<h4>Food Listing By User Preferences</h4>
 <img src="/img/fooditemuser.png">
+<h4>Menu Manage Page for Vendors</h4>
 <img src="/img/menumanage.png">
+<h4>Admin Panel Page</h4>
 <img src="/img/adminpanel.png">
+<h4>Food Notification Subscribed By User</h4>
 <img src="/img/foodnotification.png">
+<h4>Map showing location of vendors</h4>
 <img src="/img/map.png">
 
 
