@@ -51,7 +51,7 @@ One of the key advantages of UI frameworks is that they simplify the development
 
 Throughout the semester, I have had the opportunity to work with popular UI frameworks such as Bootstrap 5 and React, which have greatly expedited the process of designing interfaces for web applications. Bootstrap and React, in particular, have impressed me with their simplicity and responsive designs. These frameworks follow a mobile-first approach, automatically adapting the design elements to specific screen sizes without requiring extensive customization. This mobile-first functionality allowed me to focus on the overall appearance of the web page layout without worrying about how it would differ on different devices.
 
-<h2>Heading to the new target</h2>
+<h2>Heading to the next target</h2>
 
 Acquiring these fundamental software engineering principles has provided me with valuable insights into the essence of software development. Engaging in ICS 314 has not only exposed me to practical procedures within a potential workplace environment, but it has also ignited a newfound interest in the diverse facets of software engineering. This realization has revealed the vast potential and abundant opportunities available in the rapidly evolving realm of computer science.
 
