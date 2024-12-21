@@ -9,7 +9,6 @@ labels:
   - Website Developer
   - Learning
   - Javascript
-  - Meteor
 ---
 <p><img height="50%" 
      style="display: block;
