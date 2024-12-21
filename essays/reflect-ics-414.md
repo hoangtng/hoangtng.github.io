@@ -17,40 +17,24 @@ labels:
   width: 70%" 
      src="https://www.workato.com/product-hub/wp-content/uploads/2020/12/workato-blog-JavaScript-20201208-bl-01.jpg"></p>
 
-<h3>function introduction(student, programmingLanguage) {</h3>
 <p style="display: inline-block;
-    margin-left: 40px;">return “I came on a journey to JavaScript because I needed it for projects in my ICS 314 (Software Engineering I) class. Prior to joining the ICS 314 class, I had learned some programming languages such as C++, Java, and Python. Learning these languages in previous classes was initially challenging, but then it provided me with a solid foundation. Consequently, when I transitioned to learning JavaScript, I found it relatively easier and quickly adapted to it. This was because the syntax and structure of JavaScript are similar to Java programming, but somewhat simpler, syntax is more concise, and execution is also faster.”;</p>
-<h3>}</h3>
+    margin-left: 40px;">Reflecting on my experience in ICS 414 this semester, I found it both challenging and rewarding. The course offered a comprehensive understanding of web development, enabling me to work with various programming languages and frameworks, including ReactJS, Bootstrap, JavaScript, HTML, and CSS.</p>
 
-<h3>function compare(javascript, others) {</h3>
 <p style="display: inline-block;
-    margin-left: 40px;">return “Compared to other programming languages, although JavaScript has many similarities with other programming languages, but also there are also many notable differences. First, variable declaration in JavaScript is much more convenient than in Java. While Java variables must be declared using specific data types before they can be used, JavaScript is more flexible. Simply using 'let,' 'var,' or 'const' is sufficient, without having to consider which data type is suitable for declaration. </p>
+    margin-left: 40px;">One of the most significant aspects of the course was the opportunity to engage in a real-world project. My team and I developed a data visualization for Spire Hawaii. This project required extensive planning and collaboration, and we created a detailed project board to outline the features and milestones of our application. I was responsible for researching and implementing the import of customer data, such as Excel files, while also focusing on creating a user-friendly interface and ensuring the platform's functionality through rigorous testing and feedback sessions with our instructor.</p>
 
 <p style="display: inline-block;
     margin-left: 40px;">Then, JavaScript is an object-oriented language that is prototype-based, that does not use classes to define objects. Instead, it uses prototypes, which are existing objects. In addition, JavaScript has the concept of “JavaScript treat function as a first-class”, this means that functions can be assigned to any other variable, passed as an argument, or returned by another function. </p>
-```
-function sayHello() {
-  return "Hello, ";
-}
-function greeting(helloMessage, name) {
-  console.log(helloMessage() + name);
-}
-// Pass 'sayHello' as an argument to 'greeting' function
-greeting(sayHello, "JavaScript!");
-// Hello, JavaScript!
-```
-<p style="display: inline-block;
-    margin-left: 40px;">One of the most interesting things about JavaScript that I experienced while learning is how JavaScript handles concurrency issues. To deal with concurrency issues, JavaScript also has the concept of asynchronous programming with “Promise”, which allows the code to run in the background without blocking the execution of other code. For example, we can execute parallel queries to the database or run API calls in the background while the main thread (website) continues to function normally. Even if a database query fails, the main thread will remain uninterrupted. I believe these differences contribute to bringing more convenience, creativity, and productivity to JavaScript developers.”; </p>
-<h3>}</h3>
 
-<h3>function athletic_software_engineering() {</h3>
 <p style="display: inline-block;
-    margin-left: 40px;">return “I find that WODs (Workout of the Day) are highly effective for me. Although WODs are a bit of a pressure because it requires us to quickly find solutions within a limited time, but I believe that when we are forced to do something, we discover ways to overcome it. This has motivated me to spend time persistently learning programming and solving problems almost every day of the week to be able to pass the tests. I believe that after this semester, I will improve my programming skills and critical thinking skills so that I can confidently apply for an internship or have a solid foundation for future subjects.” </p>
-<h3>}</h3>
+    margin-left: 40px;">Throughout the semester, I faced various challenges, particularly in making the platform intuitive and accessible. This process involved refining the user experience based on feedback, which ultimately led to a more effective final product. The positive reception of our project from both my instructor and Spire Hawaii was incredibly gratifying and validated the hard work my team invested.</p>
 
-<h3>introduction(“Hoang Nguyen”,”JavaScript”);</h3>
-<h3>compare (”JavaScript”, ”Java”);</h3>
-<h3>athletic_software_engineering();</h3>
+<p style="display: inline-block;
+    margin-left: 40px;">In addition to the technical skills I developed, I learned valuable lessons about teamwork and project management. Collaborating with my peers highlighted the importance of communication and adaptability, especially under tight deadlines. Presenting our work remotely due to the pandemic added another layer of complexity, but it also helped us enhance our presentation skills in a virtual environment.</p>
+
+<p style="display: inline-block;
+    margin-left: 40px;">Overall, ICS 414 has provided me with a strong foundation in web development and significantly improved my problem-solving abilities. I am grateful for the opportunity to work on such a meaningful project and am confident that the skills I gained will be invaluable as I pursue a career in software development.</p>   
+
 
 
 
