@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Journey to JavaScript"
+title: "Journey to JavaScript1"
 # All dates must be YYYY-MM-DD format!
 date: 2023-08-30
 published: true
