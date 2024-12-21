@@ -10,7 +10,12 @@ labels:
   - Learning
   - Javascript
 ---
-
+<p><img height="50%" 
+     style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%" 
+     src="https://www.scnsoft.com/blog-pictures/software-development-outsourcing/sw-development-teams.png"></p>
 <p style="display: inline-block;
     margin-left: 40px;">Reflecting on my experience in ICS 414 this semester, I found it both challenging and rewarding. The course offered a comprehensive understanding of web development, enabling me to work with various programming languages and frameworks, including ReactJS, Bootstrap, JavaScript, HTML, and CSS.</p>
 
