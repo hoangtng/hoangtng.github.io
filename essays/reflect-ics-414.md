@@ -18,9 +18,6 @@ labels:
     margin-left: 40px;">One of the most significant aspects of the course was the opportunity to engage in a real-world project. My team and I developed a data visualization for Spire Hawaii. This project required extensive planning and collaboration, and we created a detailed project board to outline the features and milestones of our application. I was responsible for researching and implementing the import of customer data, such as Excel files, while also focusing on creating a user-friendly interface and ensuring the platform's functionality through rigorous testing and feedback sessions with our instructor.</p>
 
 <p style="display: inline-block;
-    margin-left: 40px;">Then, JavaScript is an object-oriented language that is prototype-based, that does not use classes to define objects. Instead, it uses prototypes, which are existing objects. In addition, JavaScript has the concept of “JavaScript treat function as a first-class”, this means that functions can be assigned to any other variable, passed as an argument, or returned by another function. </p>
-
-<p style="display: inline-block;
     margin-left: 40px;">Throughout the semester, I faced various challenges, particularly in making the platform intuitive and accessible. This process involved refining the user experience based on feedback, which ultimately led to a more effective final product. The positive reception of our project from both my instructor and Spire Hawaii was incredibly gratifying and validated the hard work my team invested.</p>
 
 <p style="display: inline-block;
