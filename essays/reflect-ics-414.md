@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Reflect my experience in ICS 1414"
+title: "Reflect my experience in ICS 414"
 # All dates must be YYYY-MM-DD format!
 date: 2024-12-20
 published: true
