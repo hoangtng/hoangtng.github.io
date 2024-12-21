@@ -10,12 +10,6 @@ labels:
   - Learning
   - Javascript
 ---
-<p><img height="50%" 
-     style="display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 70%" 
-     src="https://www.workato.com/product-hub/wp-content/uploads/2020/12/workato-blog-JavaScript-20201208-bl-01.jpg"></p>
 
 <p style="display: inline-block;
     margin-left: 40px;">Reflecting on my experience in ICS 414 this semester, I found it both challenging and rewarding. The course offered a comprehensive understanding of web development, enabling me to work with various programming languages and frameworks, including ReactJS, Bootstrap, JavaScript, HTML, and CSS.</p>
