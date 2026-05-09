@@ -1,27 +1,36 @@
 <div class="hero-shell">
   <div class="hero-glow hero-glow-a"></div>
   <div class="hero-glow hero-glow-b"></div>
-  <div class="container position-relative py-5">
-    <div class="row align-items-center g-4">
+  <div class="hero-grid"></div>
+  <div class="container position-relative py-5 py-lg-6">
+    <div class="row align-items-center g-5">
       <div class="col-lg-5 text-center">
-        <div class="hero-avatar-wrap mx-auto">
-          <img width="320" src="{{ site.data.bio.basics.picture }}" class="d-block mx-auto rounded-circle hero-avatar" alt="{{ site.data.bio.basics.name }} profile photo">
-          <span class="hero-ring"></span>
+        <div class="hero-avatar-3d mx-auto">
+          <span class="hero-orbit hero-orbit-one"></span>
+          <span class="hero-orbit hero-orbit-two"></span>
+          <span class="hero-float-chip hero-float-a">Frontend</span>
+          <span class="hero-float-chip hero-float-b">Backend</span>
+          <span class="hero-float-chip hero-float-c">AI</span>
+          <div class="hero-avatar-wrap mx-auto">
+            <img width="340" src="{{ site.data.bio.basics.picture }}" class="d-block mx-auto rounded-circle hero-avatar" alt="{{ site.data.bio.basics.name }} profile photo">
+            <span class="hero-ring"></span>
+            <span class="hero-shadow"></span>
+          </div>
         </div>
       </div>
       <div class="col-lg-7">
-        <p class="text-uppercase fw-bold hero-kicker mb-2">Welcome to my portfolio</p>
+        <p class="text-uppercase fw-bold hero-kicker mb-2">Software Engineer Portfolio</p>
         <h1 class="display-3 fw-bold mb-3 hero-title">{{ site.data.bio.basics.name }}</h1>
         <p class="fs-4 mb-3 hero-subtitle">{{ site.data.bio.basics.label }}</p>
-        <p class="lead mb-4">{{ site.data.bio.basics.summary }}</p>
+        <p class="lead mb-4 hero-summary">{{ site.data.bio.basics.summary }}</p>
 
         <div class="hero-pills mb-4">
-          {% for interest in site.data.bio.interests %}
+          {% for interest in site.data.bio.interests limit:8 %}
           <span class="badge rounded-pill hero-pill">{{ interest.name }}</span>
           {% endfor %}
         </div>
 
-        <div class="d-flex flex-wrap gap-3">
+        <div class="d-flex flex-wrap gap-3 mb-4">
           {% if site.data.bio.basics.website %}
             {% capture url %}{{ site.data.bio.basics.website }}{% endcapture %}
             <a class="btn btn-primary btn-lg hero-btn" href="{{ url }}" target="_blank" rel="noopener noreferrer">Visit Website</a>
@@ -29,7 +38,28 @@
           <a class="btn btn-outline-light btn-lg hero-btn" href="#projects">View Projects</a>
         </div>
 
-        <div class="row mt-4 g-3">
+        <div class="hero-metrics row g-3 mb-4">
+          <div class="col-6 col-md-4">
+            <div class="hero-metric-card">
+              <p class="hero-metric-value mb-1">Clean</p>
+              <p class="hero-metric-label mb-0">Architecture</p>
+            </div>
+          </div>
+          <div class="col-6 col-md-4">
+            <div class="hero-metric-card">
+              <p class="hero-metric-value mb-1">Fast</p>
+              <p class="hero-metric-label mb-0">Performance</p>
+            </div>
+          </div>
+          <div class="col-6 col-md-4">
+            <div class="hero-metric-card">
+              <p class="hero-metric-value mb-1">Premium</p>
+              <p class="hero-metric-label mb-0">UI/UX</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="row g-3">
           {% if site.data.bio.basics.email %}
             {% capture url %}mailto:{{ site.data.bio.basics.email }}{% endcapture %}
             <div class="col-auto">
